@@ -6,6 +6,7 @@
 
 | PR | Description |
 |---|---|
+| [#60106](https://github.com/openclaw/openclaw/pull/60106) `open` | fix(ui): stub node:module in browser build to fix createRequire warning |
 | [#60073](https://github.com/openclaw/openclaw/pull/60073) `open` | fix(gateway): add source field to exec approvals allowlist entry schema |
 | [#60058](https://github.com/openclaw/openclaw/pull/60058) `open` | fix(pi): use resolvePathArg for read tool path alias in handler |
 | [#60057](https://github.com/openclaw/openclaw/pull/60057) `open` | fix(cron): add null guard for job.name in printCronList |
