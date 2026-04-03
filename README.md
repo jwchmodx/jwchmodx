@@ -4,6 +4,7 @@
 
 | Project | PR | Description |
 |---|---|---|
+| 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2884](https://github.com/HKUDS/LightRAG/pull/2884) `open` | feat: support custom fields in ainsert_custom_kg |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2883](https://github.com/HKUDS/LightRAG/pull/2883) `open` | feat: expose LLM token usage in /query response |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2882](https://github.com/HKUDS/LightRAG/pull/2882) `open` | fix: include doc_id in duplicate response when track_id is absent |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2881](https://github.com/HKUDS/LightRAG/pull/2881) `open` | fix: include retrieved context in LLM query cache key |
