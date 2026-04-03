@@ -41,4 +41,9 @@
 
 | PR | Description |
 |---|---|
+| [#60073](https://github.com/openclaw/openclaw/pull/60073) `open` | fix(gateway): add source field to exec approvals allowlist entry schema |
+| [#60058](https://github.com/openclaw/openclaw/pull/60058) `open` | fix(pi): use resolvePathArg for read tool path alias in handler |
+| [#60057](https://github.com/openclaw/openclaw/pull/60057) `open` | fix(cron): add null guard for job.name in printCronList |
+| [#60043](https://github.com/openclaw/openclaw/pull/60043) `open` | fix: don't broadcast state:error on per-attempt lifecycle errors |
+| [#59697](https://github.com/openclaw/openclaw/pull/59697) `open` | fix: strip \<relevant-memories\> injected by memory plugin from user messages in WebUI |
 | [#15110](https://github.com/openclaw/openclaw/pull/15110) `merged` | fix: enable auto-scroll during assistant response streaming |
