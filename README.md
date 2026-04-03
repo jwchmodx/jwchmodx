@@ -6,6 +6,7 @@
 
 | PR | Description |
 |---|---|
+| [#60290](https://github.com/openclaw/openclaw/pull/60290) `open` | fix(sessions): preserve terminal status after agent run completes |
 | [#60283](https://github.com/openclaw/openclaw/pull/60283) `open` | fix(xiaomi): disable thinking for MiMo reasoning models |
 | [#60254](https://github.com/openclaw/openclaw/pull/60254) `open` | fix(minimax): invert usage_percent when no count fields are present |
 | [#60248](https://github.com/openclaw/openclaw/pull/60248) `open` | fix(loop-detection): escalate generic_repeat to critical at criticalThreshold |
