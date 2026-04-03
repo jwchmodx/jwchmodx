@@ -4,6 +4,7 @@
 
 | Project | PR | Description |
 |---|---|---|
+| 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2880](https://github.com/HKUDS/LightRAG/pull/2880) `open` | fix: retry transient 400 JSON-parse errors + preserve exception chain |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2879](https://github.com/HKUDS/LightRAG/pull/2879) `open` | perf: defer KG rebuild in batch deletion to a single pass |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2878](https://github.com/HKUDS/LightRAG/pull/2878) `open` | docs: remove deprecated ids field from QueryParam documentation |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2877](https://github.com/HKUDS/LightRAG/pull/2877) `open` | fix: remove redundant file_path_placeholder lookup in _merge_edges_then_upsert |
