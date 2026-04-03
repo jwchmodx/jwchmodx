@@ -6,6 +6,7 @@
 
 | PR | Description |
 |---|---|
+| [#60248](https://github.com/openclaw/openclaw/pull/60248) `open` | fix(loop-detection): escalate generic_repeat to critical at criticalThreshold |
 | [#60115](https://github.com/openclaw/openclaw/pull/60115) `open` | fix(mattermost): prevent DM replies from threading via resolveMattermostReplyRootId |
 | [#60106](https://github.com/openclaw/openclaw/pull/60106) `open` | fix(ui): stub node:module in browser build to fix createRequire warning |
 | [#60073](https://github.com/openclaw/openclaw/pull/60073) `open` | fix(gateway): add source field to exec approvals allowlist entry schema |
