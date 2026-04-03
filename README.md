@@ -4,6 +4,7 @@
 
 | Project | PR | Description |
 |---|---|---|
+| 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2888](https://github.com/HKUDS/LightRAG/pull/2888) `open` | chore: remove dead OLLAMA_NUM_CTX / args.ollama_num_ctx assignment |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2887](https://github.com/HKUDS/LightRAG/pull/2887) `open` | chore: remove dead config.ini / configparser code |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2886](https://github.com/HKUDS/LightRAG/pull/2886) `open` | fix: allow deleting stable docs while pipeline is busy |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2885](https://github.com/HKUDS/LightRAG/pull/2885) `open` | fix: suppress references in LLM response when include_references=False |
