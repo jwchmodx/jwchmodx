@@ -4,6 +4,7 @@
 
 | Project | PR | Description |
 |---|---|---|
+| 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2886](https://github.com/HKUDS/LightRAG/pull/2886) `open` | fix: allow deleting stable docs while pipeline is busy |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2885](https://github.com/HKUDS/LightRAG/pull/2885) `open` | fix: suppress references in LLM response when include_references=False |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2884](https://github.com/HKUDS/LightRAG/pull/2884) `open` | feat: support custom fields in ainsert_custom_kg |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2883](https://github.com/HKUDS/LightRAG/pull/2883) `open` | feat: expose LLM token usage in /query response |
