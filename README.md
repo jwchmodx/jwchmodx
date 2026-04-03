@@ -4,6 +4,8 @@
 
 | Project | PR | Description |
 |---|---|---|
+| 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2882](https://github.com/HKUDS/LightRAG/pull/2882) `open` | fix: include doc_id in duplicate response when track_id is absent |
+| 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2881](https://github.com/HKUDS/LightRAG/pull/2881) `open` | fix: include retrieved context in LLM query cache key |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2880](https://github.com/HKUDS/LightRAG/pull/2880) `open` | fix: retry transient 400 JSON-parse errors + preserve exception chain |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2879](https://github.com/HKUDS/LightRAG/pull/2879) `open` | perf: defer KG rebuild in batch deletion to a single pass |
 | 💡 [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#2878](https://github.com/HKUDS/LightRAG/pull/2878) `open` | docs: remove deprecated ids field from QueryParam documentation |
