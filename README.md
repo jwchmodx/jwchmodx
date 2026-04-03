@@ -15,3 +15,5 @@
 | 🔍 [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#236](https://github.com/HKUDS/RAG-Anything/pull/236) `open` | fix: strip \<think\> tags from modal processor fallback responses |
 | 🔍 [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#237](https://github.com/HKUDS/RAG-Anything/pull/237) `open` | fix: demote misleading LibreOffice warning to debug |
 | 🔍 [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#238](https://github.com/HKUDS/RAG-Anything/pull/238) `open` | feat: add Ollama integration example |
+| 🔍 [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#239](https://github.com/HKUDS/RAG-Anything/pull/239) `open` | feat: incremental folder scan — skip unchanged files via MD5 manifest |
+
