@@ -7,15 +7,15 @@
 | PR | Description |
 |---|---|
 | [#60290](https://github.com/openclaw/openclaw/pull/60290) `open` | fix(sessions): preserve terminal status after agent run completes |
-| [#60283](https://github.com/openclaw/openclaw/pull/60283) `open` | fix(xiaomi): disable thinking for MiMo reasoning models |
-| [#60254](https://github.com/openclaw/openclaw/pull/60254) `open` | fix(minimax): invert usage_percent when no count fields are present |
+| [#60283](https://github.com/openclaw/openclaw/pull/60283) `closed` | fix(xiaomi): disable thinking for MiMo reasoning models |
+| [#60254](https://github.com/openclaw/openclaw/pull/60254) `merged` | fix(minimax): invert usage_percent when no count fields are present |
 | [#60248](https://github.com/openclaw/openclaw/pull/60248) `open` | fix(loop-detection): escalate generic_repeat to critical at criticalThreshold |
 | [#60115](https://github.com/openclaw/openclaw/pull/60115) `open` | fix(mattermost): prevent DM replies from threading via resolveMattermostReplyRootId |
-| [#60106](https://github.com/openclaw/openclaw/pull/60106) `open` | fix(ui): stub node:module in browser build to fix createRequire warning |
+| [#60106](https://github.com/openclaw/openclaw/pull/60106) `closed` | fix(ui): stub node:module in browser build to fix createRequire warning |
 | [#60073](https://github.com/openclaw/openclaw/pull/60073) `open` | fix(gateway): add source field to exec approvals allowlist entry schema |
 | [#60058](https://github.com/openclaw/openclaw/pull/60058) `open` | fix(pi): use resolvePathArg for read tool path alias in handler |
 | [#60057](https://github.com/openclaw/openclaw/pull/60057) `open` | fix(cron): add null guard for job.name in printCronList |
-| [#60043](https://github.com/openclaw/openclaw/pull/60043) `open` | fix: don't broadcast state:error on per-attempt lifecycle errors |
+| [#60043](https://github.com/openclaw/openclaw/pull/60043) `open` | fix: don'''t broadcast state:error on per-attempt lifecycle errors |
 | [#59697](https://github.com/openclaw/openclaw/pull/59697) `open` | fix: strip \<relevant-memories\> injected by memory plugin from user messages in WebUI |
 | [#15110](https://github.com/openclaw/openclaw/pull/15110) `merged` | fix: enable auto-scroll during assistant response streaming |
 
@@ -23,8 +23,8 @@
 
 | PR | Description |
 |---|---|
-| [#2888](https://github.com/HKUDS/LightRAG/pull/2888) `open` | chore: remove dead OLLAMA_NUM_CTX / args.ollama_num_ctx assignment |
-| [#2887](https://github.com/HKUDS/LightRAG/pull/2887) `open` | chore: remove dead config.ini / configparser code |
+| [#2888](https://github.com/HKUDS/LightRAG/pull/2888) `merged` | chore: remove dead OLLAMA_NUM_CTX / args.ollama_num_ctx assignment |
+| [#2887](https://github.com/HKUDS/LightRAG/pull/2887) `merged` | chore: remove dead config.ini / configparser code |
 | [#2886](https://github.com/HKUDS/LightRAG/pull/2886) `open` | fix: allow deleting stable docs while pipeline is busy |
 | [#2885](https://github.com/HKUDS/LightRAG/pull/2885) `open` | fix: suppress references in LLM response when include_references=False |
 | [#2884](https://github.com/HKUDS/LightRAG/pull/2884) `open` | feat: support custom fields in ainsert_custom_kg |
@@ -34,7 +34,7 @@
 | [#2880](https://github.com/HKUDS/LightRAG/pull/2880) `open` | fix: retry transient 400 JSON-parse errors + preserve exception chain |
 | [#2879](https://github.com/HKUDS/LightRAG/pull/2879) `open` | perf: defer KG rebuild in batch deletion to a single pass |
 | [#2878](https://github.com/HKUDS/LightRAG/pull/2878) `open` | docs: remove deprecated ids field from QueryParam documentation |
-| [#2877](https://github.com/HKUDS/LightRAG/pull/2877) `open` | fix: remove redundant file_path_placeholder lookup in _merge_edges_then_upsert |
+| [#2877](https://github.com/HKUDS/LightRAG/pull/2877) `merged` | fix: remove redundant file_path_placeholder lookup in _merge_edges_then_upsert |
 
 ### 🔍 [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)
 
