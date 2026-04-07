@@ -58,6 +58,8 @@
 
 | PR | Description |
 |---|---|
+| [#9465](https://github.com/coollabsio/coolify/pull/9465) `open` | fix(ui): keep confirmation modal open when action returns an error |
+| [#9464](https://github.com/coollabsio/coolify/pull/9464) `open` | fix(webhook): append /settings/hooks to public HTTPS git repository URL |
 | [#9463](https://github.com/coollabsio/coolify/pull/9463) `open` | fix(service): re-enable pterodactyl-panel by installing mariadb-client in entrypoint |
 | [#9462](https://github.com/coollabsio/coolify/pull/9462) `open` | fix(logs): convert timestamps to configured instance timezone |
 | [#9461](https://github.com/coollabsio/coolify/pull/9461) `open` | fix(validation): allow single quotes in shell-safe command pattern |
