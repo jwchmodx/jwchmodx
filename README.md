@@ -58,6 +58,7 @@
 
 | PR | Description |
 |---|---|
+| [#9466](https://github.com/coollabsio/coolify/pull/9466) `open` | feat(env): add unlock functionality for locked environment variables |
 | [#9465](https://github.com/coollabsio/coolify/pull/9465) `open` | fix(ui): keep confirmation modal open when action returns an error |
 | [#9464](https://github.com/coollabsio/coolify/pull/9464) `open` | fix(webhook): append /settings/hooks to public HTTPS git repository URL |
 | [#9463](https://github.com/coollabsio/coolify/pull/9463) `open` | fix(service): re-enable pterodactyl-panel by installing mariadb-client in entrypoint |
