@@ -58,6 +58,7 @@
 
 | PR | Description |
 |---|---|
+| [#9463](https://github.com/coollabsio/coolify/pull/9463) `open` | fix(service): re-enable pterodactyl-panel by installing mariadb-client in entrypoint |
 | [#9462](https://github.com/coollabsio/coolify/pull/9462) `open` | fix(logs): convert timestamps to configured instance timezone |
 | [#9461](https://github.com/coollabsio/coolify/pull/9461) `open` | fix(validation): allow single quotes in shell-safe command pattern |
 | [#9460](https://github.com/coollabsio/coolify/pull/9460) `open` | fix(ui): make dashboard add buttons visible in light mode |
