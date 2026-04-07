@@ -53,3 +53,10 @@
 | [#10028](https://github.com/KittyCAD/modeling-app/pull/10028) `open` | feat: add app font size setting |
 | [#10027](https://github.com/KittyCAD/modeling-app/pull/10027) `open` | fix: use project name as default export filename |
 | [#10026](https://github.com/KittyCAD/modeling-app/pull/10026) `open` | fix: handle boolean type in getCalculatedKclExpressionValue |
+
+### ❄️ [coollabsio/coolify](https://github.com/coollabsio/coolify)
+
+| PR | Description |
+|---|---|
+| [#9460](https://github.com/coollabsio/coolify/pull/9460) `open` | fix(ui): make dashboard add buttons visible in light mode |
+| [#9459](https://github.com/coollabsio/coolify/pull/9459) `open` | fix(install): correct possessive 'its' in env var log message |
