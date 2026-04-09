@@ -38,11 +38,11 @@
 
 | PR | Description |
 |---|---|
+| [#238](https://github.com/HKUDS/RAG-Anything/pull/238) `merged` | feat: add Ollama integration example |
+| [#237](https://github.com/HKUDS/RAG-Anything/pull/237) `merged` | fix: demote misleading LibreOffice warning to debug |
+| [#236](https://github.com/HKUDS/RAG-Anything/pull/236) `merged` | fix: strip \<think\> tags from modal processor fallback responses |
 | [#240](https://github.com/HKUDS/RAG-Anything/pull/240) `open` | fix: prevent crashes from uninitialized LightRAG, env-var stripping, and parser cleanup |
 | [#239](https://github.com/HKUDS/RAG-Anything/pull/239) `open` | feat: incremental folder scan — skip unchanged files via MD5 manifest |
-| [#238](https://github.com/HKUDS/RAG-Anything/pull/238) `open` | feat: add Ollama integration example |
-| [#237](https://github.com/HKUDS/RAG-Anything/pull/237) `open` | fix: demote misleading LibreOffice warning to debug |
-| [#236](https://github.com/HKUDS/RAG-Anything/pull/236) `open` | fix: strip \<think\> tags from modal processor fallback responses |
 
 ### 🐱 [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app)
 
@@ -53,15 +53,8 @@
 | [#10027](https://github.com/KittyCAD/modeling-app/pull/10027) `open` | fix: use project name as default export filename |
 | [#10026](https://github.com/KittyCAD/modeling-app/pull/10026) `open` | fix: handle boolean type in getCalculatedKclExpressionValue |
 
-### ❄️ [coollabsio/coolify](https://github.com/coollabsio/coolify)
+### 🚀 [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 
 | PR | Description |
 |---|---|
-| [#9466](https://github.com/coollabsio/coolify/pull/9466) `open` | feat(env): add unlock functionality for locked environment variables |
-| [#9465](https://github.com/coollabsio/coolify/pull/9465) `open` | fix(ui): keep confirmation modal open when action returns an error |
-| [#9464](https://github.com/coollabsio/coolify/pull/9464) `open` | fix(webhook): append /settings/hooks to public HTTPS git repository URL |
-| [#9463](https://github.com/coollabsio/coolify/pull/9463) `open` | fix(service): re-enable pterodactyl-panel by installing mariadb-client in entrypoint |
-| [#9462](https://github.com/coollabsio/coolify/pull/9462) `open` | fix(logs): convert timestamps to configured instance timezone |
-| [#9461](https://github.com/coollabsio/coolify/pull/9461) `open` | fix(validation): allow single quotes in shell-safe command pattern |
-| [#9460](https://github.com/coollabsio/coolify/pull/9460) `open` | fix(ui): make dashboard add buttons visible in light mode |
-| [#9459](https://github.com/coollabsio/coolify/pull/9459) `open` | fix(install): correct possessive 'its' in env var log message |
+| [#4173](https://github.com/Dokploy/dokploy/pull/4173) `open` | fix(monitoring): guard cpu.value against non-string types |
